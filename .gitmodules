@@ -1,0 +1,9 @@
+[submodule "meta-infrastructure"]
+	path = meta-infrastructure
+	url = https://github.com/osforlife42/meta-infrastructure.git
+[submodule "meta-board"]
+	path = meta-board
+	url = https://github.com/osforlife42/meta-board.git
+[submodule "meta-external"]
+	path = meta-external
+	url = https://github.com/osforlife42/meta-external.git
